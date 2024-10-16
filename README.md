@@ -2,6 +2,10 @@
 
 This repository contains test cases for the user authentication features of the OpenCart application, focusing on registration and login functionalities.
 
+## ⭐ Star This Project
+
+If you find this project helpful or interesting, please give it a star! Your support helps others discover this project.
+
 ## Description
 
 The tests ensure that the registration and login processes work correctly, covering various scenarios such as:
